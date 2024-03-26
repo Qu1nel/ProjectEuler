@@ -1,15 +1,15 @@
 # Project Euler
 
+![Banner](./.github/assets/banner.jpg)
+
 My another solutions for project euler mathematical challenges.
 Compilation of some solutions of the challenges existent in the website [www.projecteuler.net](https://projecteuler.net)
-
-[![License: MIT](https://img.shields.io/github/license/Qu1nel/Cardioid?color=g)](https://opensource.org/licenses/MIT)
-
-![Banner](./.github/assets/banner.jpg)
 
 Solving Project Euler with any lang.
 
 [![Project Euler](https://projecteuler.net/profile/Qu1nel.png)](https://projecteuler.net/)
+
+[![License: MIT](https://img.shields.io/github/license/Qu1nel/Cardioid?color=g)](https://opensource.org/licenses/MIT)
 
 ## What is Project Euler?
 
