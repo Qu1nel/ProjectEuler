@@ -5,7 +5,7 @@ Compilation of some solutions of the challenges existent in the website [www.pro
 
 [![License: MIT](https://img.shields.io/github/license/Qu1nel/Cardioid?color=g)](https://opensource.org/licenses/MIT)
 
-![Banner](./.github/assets/logo.jpg)
+![Banner](./.github/assets/banner.jpg)
 
 Solving Project Euler with any lang.
 
